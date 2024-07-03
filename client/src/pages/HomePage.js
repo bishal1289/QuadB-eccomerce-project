@@ -114,7 +114,7 @@ const HomePage = () => {
       setCart(updatedCart);
       localStorage.setItem("cart", JSON.stringify(updatedCart));
     } else {
-      const updatedProduct = { ...product, quantity: 1,user_id:user.user._id };
+      const updatedProduct = { ...product, quantity: 1};
       setCart([...cart, updatedProduct]);
       
       localStorage.setItem(
