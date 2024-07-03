@@ -34,8 +34,6 @@ const HomePage = () => {
     }
   };
 
-  let user = JSON.parse(localStorage.getItem("auth"));
-  console.log(user.user)
   useEffect(() => {
     getAllCategory();
     getTotal();
