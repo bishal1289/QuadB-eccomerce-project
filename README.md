@@ -18,5 +18,7 @@ Create a dotenv file and add the reacquired URL for both Backend and FrontEnd
 
 To access the admin Panal of ForntEnd Register with any Gmail and change the role to 1 in the MongoDB database
 
+![WhatsApp Image 2024-07-03 at 11 16 10 PM](https://github.com/bishal1289/QuadB-eccomerce-project/assets/106617899/5d33ae71-e7ca-49bf-9ad2-faec2b4d3c91)
+
 After that login with that Gamil and click on Admin int the Dropdown there is DashBoard click on DashBorad and you can see all the Features like add product,delete product,update product,add category.
 
