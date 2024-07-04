@@ -23,4 +23,5 @@ To access the admin Panal of ForntEnd Register with any Gmail and change the rol
 After that login with that Gamil and click on Admin int the Dropdown there is DashBoard click on DashBorad and you can see all the Features like add product,delete product,update product,add category.
 
 Final Output:
-![quadB1-ezgif com-video-to-gif-converter](https://github.com/bishal1289/QuadB-eccomerce-project/assets/106617899/88b67b44-6618-4816-a02c-4020ccf6ee1f)
+
+![QQQQQQQQQQ-ezgif com-video-to-gif-converter](https://github.com/bishal1289/QuadB-eccomerce-project/assets/106617899/0a7873d2-192a-4292-a963-439613226a76)
